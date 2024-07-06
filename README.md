@@ -26,4 +26,15 @@ The Note Taker application allows users to write, save, and delete notes. Built 
 1. Clone the repository:
    ```sh
    git clone https://github.com/crob127/Note-Taker-11.git
-
+2. Navigate to the project directory:
+   ```sh
+   cd Note-Taker-11
+3. Install the required packages:
+   ```sh
+   npm install
+4. Start the server:
+   ```sh
+   node server.js
+5. Open the application in your browser at:
+   ```sh
+   http://localhost:3000
